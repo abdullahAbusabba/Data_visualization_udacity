@@ -11,7 +11,24 @@ In the second part, you will take your main findings from your exploration and c
 
 - Ford GoBike System Data
 
-The Data
+due to the large amount in the data of each month I couldn't upload them. It can be reached in the link below it's all 2019 files. Please Download the files and save them in 'Data' folder in order to run this code.
+https://s3.amazonaws.com/baywheels-data/index.html
+
+# File names are as follows:
+- 201901-fordgobike-tripdata.csv.zip
+- 201902-fordgobike-tripdata.csv.zip
+- 201903-fordgobike-tripdata.csv.zip
+- 201904-fordgobike-tripdata.csv.zip
+- 201905-baywheels-tripdata.csv.zip
+- 201906-baywheels-tripdata.csv.zip
+- 201907-baywheels-tripdata.csv.zip
+- 201908-baywheels-tripdata.csv.zip
+- 201909-baywheels-tripdata.csv.zip
+- 201910-baywheels-tripdata.csv.zip
+- 201911-baywheels-tripdata.csv.zip
+- 201912-baywheels-tripdata.csv.zip
+
+# The Data
 Each trip is anonymized and includes:
 Trip Duration (seconds)
 Start Time and Date
