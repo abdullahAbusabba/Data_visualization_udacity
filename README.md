@@ -29,20 +29,20 @@ https://s3.amazonaws.com/baywheels-data/index.html
 - 201912-baywheels-tripdata.csv.zip
 
 # The Data
-Each trip is anonymized and includes:
-Trip Duration (seconds)
-Start Time and Date
-End Time and Date
-Start Station ID
-Start Station Name
-Start Station Latitude
-Start Station Longitude
-End Station ID
-End Station Name
-End Station Latitude
-End Station Longitude
-Bike ID
-User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
+- Each trip is anonymized and includes:
+- Trip Duration (seconds)
+- Start Time and Date
+- End Time and Date
+- Start Station ID
+- Start Station Name
+- Start Station Latitude
+- Start Station Longitude
+- End Station ID
+- End Station Name
+- End Station Latitude
+- End Station Longitude
+- Bike ID
+- User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
 
 # Step 1.2: Explore Your Data
 It’s time to get to the interesting bits. Explore your data and document your findings in a report. The report should briefly introduce the dataset, then systematically walk through the points of exploration that you conducted. You should have headers and text that organize your thoughts and findings. Visualizations in this part of the project need not be completely polished: this is just your own exploration at this point. However, you should still make sure that you adhere to principles of using appropriate plot types and encodings so that accurate conclusions can be drawn, and that you have enough comments and labeling so that when you return to your work, you can quickly grasp your analysis steps.
